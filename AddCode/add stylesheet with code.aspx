@@ -7,7 +7,7 @@
   protected void Page_Load(object sender, System.EventArgs e)
   {
 
-      // Create a Style object for the body of the page.
+      // Create a Style object for the body of the page made change.
       Style bodyStyle = new Style();
 
       bodyStyle.ForeColor = System.Drawing.Color.Blue;
