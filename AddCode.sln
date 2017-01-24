@@ -5,6 +5,11 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddCode", "AddCode\AddCode.csproj", "{6DC8C232-C4C8-47F1-AEEF-E54DE0382997}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0E7E39B6-148E-48BC-9751-D450DC78312A}"
+	ProjectSection(SolutionItems) = preProject
+		AddCode\Handy To Have Code Storage.txt = AddCode\Handy To Have Code Storage.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
